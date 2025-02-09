@@ -5,3 +5,4 @@ If you'd rather habe two bottom mounted intake-fans, print the 'cover_noSSD_butF
 Make sure add additional supports to the cable-hiding part in your slicer (see foto) or print this part with slow speed. Otherwise you might get a bad looking 'wavy' finish due to vibrations.
 
 I might add versions for ATX-PSUs and non-offset PSUs later.
+If you do that feel free to add them.
